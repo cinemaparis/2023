@@ -1,5 +1,5 @@
 <h1> CINEMA 2023 </h1>
-Workshop on Clinical and Environmental Metagenome Analysis (CINEMA) 2023 materials.
+Workshop on Clinical and Environmental Metagenome Analysis ([CINEMA](https://events.rice.edu/event/345710-workshop-on-clinical-and-environmental-metagenome)) 2023 materials.
 
 
 ## Before the course
@@ -22,17 +22,17 @@ You will need to bring a laptop to actively participate in this course.
 
 ---
 ## Course Directors:
-* [Todd Treangen](http://www.treangenlab.com/), Rice University, Dept. of Computer Science
-* [Lauren Stadler](https://www.stadler.rice.edu/), Rice University, Dept. of Civil and Environmental Engineering
+* [Todd Treangen](http://www.treangenlab.com/) Rice University, Dept. of Computer Science
+* [Lauren Stadler](https://www.stadler.rice.edu/) Rice University, Dept. of Civil and Environmental Engineering
 
 
 ## Course Instructors
-* [Todd Treangen](http://www.treangenlab.com/), Rice University
-* [Lauren Stadler](https://www.stadler.rice.edu/), Rice University
-* [Jeseth Delgado Vela](https://profiles.howard.edu/jeseth-delgado-vela), Howard University, USA
-* [Sara Vieira-Silva](https://saravsilva.github.io/), University Medical Center, Johannes Gutenberg University Mainz, Germany
-* [Alexander Dilthey](https://scholar.google.com/citations?user=v5N06xEAAAAJ&hl=en), Institute of Medical Microbiology, University Hospital of Düsseldorf, Germany
-* [Joshua Quick](https://www.birmingham.ac.uk/schools/biosciences/staff/profile.aspx?ReferenceId=190796&Name=dr-joshua-quick), University of Birmingham
+* [Todd Treangen](http://www.treangenlab.com/) Rice University
+* [Lauren Stadler](https://www.stadler.rice.edu/) Rice University
+* [Jeseth Delgado Vela](https://profiles.howard.edu/jeseth-delgado-vela) Howard University, USA
+* [Sara Vieira-Silva](https://saravsilva.github.io/) University Medical Center, Johannes Gutenberg University Mainz, Germany
+* [Alexander Dilthey](https://scholar.google.com/citations?user=v5N06xEAAAAJ&hl=en) Institute of Medical Microbiology, University Hospital of Düsseldorf Germany
+* [Joshua Quick](https://www.birmingham.ac.uk/schools/biosciences/staff/profile.aspx?ReferenceId=190796&Name=dr-joshua-quick) University of Birmingham
 
 
 ## Course TAs
@@ -40,13 +40,13 @@ You will need to bring a laptop to actively participate in this course.
 * [Ryan Doughty](https://www.linkedin.com/in/ryan-doughty-25436084/) Rice University
 
 ## Invited Speakers
-* [Sonia Villapol Salgado](https://villapol.hmailabs.org/), Houston Methodist Research Institut, USA
-* [Eduardo Rocha](https://research.pasteur.fr/en/member/eduardo-rocha/), Institut Pasteur
-* [Lucie Bittner](https://luciebittner.com/), Sorbonne Université
-* [Zamin Iqbal](https://www.ebi.ac.uk/people/person/zamin-iqbal/), EMBL-European Bioinformatics Institute
+* [Sonia Villapol Salgado](https://villapol.hmailabs.org/) Houston Methodist Research Institut, USA
+* [Eduardo Rocha](https://research.pasteur.fr/en/member/eduardo-rocha/) Institut Pasteur
+* [Lucie Bittner](https://luciebittner.com/) Sorbonne Université
+* [Zamin Iqbal](https://www.ebi.ac.uk/people/person/zamin-iqbal/) EMBL-European Bioinformatics Institute
 
-## Keynote Speakers
-* [Nicola Segata](http://segatalab.cibio.unitn.it/), University of Trento (Italy) and European Institute of Oncology in Milan (Italy)
+## Keynote Speaker
+* [Nicola Segata](http://segatalab.cibio.unitn.it/) University of Trento (Italy) and European Institute of Oncology in Milan (Italy)
 
 ## Schedule
 
