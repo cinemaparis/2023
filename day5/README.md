@@ -1,4 +1,4 @@
 ## Putting it all together
 
-Saturday, 8 July \
+Saturday, 8 July 
  
