@@ -1,5 +1,5 @@
 <h1> CINEMA 2023 </h1>
-Workshop on Clinical and Environmental Metagenome Analysis ([CINEMA](https://events.rice.edu/event/345710-workshop-on-clinical-and-environmental-metagenome)) 2023 materials.
+Workshop on Clinical and Environmental Metagenome Analysis [CINEMA](https://events.rice.edu/event/345710-workshop-on-clinical-and-environmental-metagenome) 2023 materials.
 
 
 ## Before the course
