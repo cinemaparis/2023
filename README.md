@@ -56,8 +56,7 @@ You will need to bring a laptop to actively participate in this course.
 | **Time**       | **CINEMA Kickoff**        |
 |:-------------:|:-------------:| 
 | 15h30-16h00 | Welcome to CINEMA Paris 2023 (Dr. Stadler and Dr. Treangen) |
-| 16h00-17h00 | Keynote address (Dr. Nicola Segata) “Large-scale strain-level
-computational metagenomics of the human microbiome” |
+| 16h00-17h00 | Keynote address (Dr. Nicola Segata) “Large-scale strain-level computational metagenomics of the human microbiome” |
 | 17h00-18h30 | Social & Networking |
 
 #### <a name="1"></a> Tuesday, 4 July
