@@ -74,7 +74,7 @@ You will need to bring a laptop to actively participate in this course.
 
 
 #### <a name="2"></a> Wednesday, 5 July
-| **Time**       | **Environmental microbiome analysis (Instructor: Dr. Delgado Vela, Moderator: Dr. Stadler) **        |
+| **Time**       | **Environmental microbiome analysis (Instructor: Dr. Delgado Vela, Moderator: Dr. Stadler)**        |
 |:-------------:|:-------------:|
 | 9h30-10h30 | [lecture part 1](slides) |
 | 10h30-11h00 | coffee break  |  
@@ -88,7 +88,7 @@ You will need to bring a laptop to actively participate in this course.
 
 
 #### <a name="3"></a> Thursday, 6 July
-| **Time**       | **Clinical microbiome analysis (Instructor: Dr. Vieira-Silva, Moderator: Dr. Treangen) **        |
+| **Time**       | **Clinical microbiome analysis (Instructor: Dr. Vieira-Silva, Moderator: Dr. Treangen)**        |
 |:-------------:|:-------------:|
 | 9h30-10h30 | [lecture part 1](slides) |
 | 10h30-11h00 | coffee break  |  
