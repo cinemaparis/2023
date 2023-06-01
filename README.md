@@ -42,7 +42,6 @@ You will need to bring a laptop to actively participate in this course.
 
 ## Invited Speakers
 * [Sonia Villapol Salgado](https://villapol.hmailabs.org/) Houston Methodist Research Institut, USA
-* [Eduardo Rocha](https://research.pasteur.fr/en/member/eduardo-rocha/) Institut Pasteur
 * [Lucie Bittner](https://luciebittner.com/) Sorbonne Université
 * [Zamin Iqbal](https://www.ebi.ac.uk/people/person/zamin-iqbal/) EMBL-European Bioinformatics Institute
 
@@ -105,9 +104,9 @@ You will need to bring a laptop to actively participate in this course.
 #### <a name="4"></a> Friday, 7 July
 | **Time**       | **Bioinformatics tools and approaches (Instructor: Dr. Dilthey, Moderator: Dr. Treangen)**        |  
 |:-------------:|:-------------:|  
-| 9h00-10h00 | Invited speaker (Dr. Eduardo Rocha, LPI extension) |
-| 10h00-10h30 | coffee break  |  
-| 10h30-12h30 | [lecture part 2](slides) |
+| 9h30-10h30 | [lecture part 1](slides) |
+| 10h30-11h00 | coffee break  |  
+| 11h00-12h00 | [lecture part 2](slides) |
 | 12h00-13h30 | lunch/networking | 
 | 13h30-14h30 | [practical session or hands-on demo part 1](slides) |
 | 14h30-15h00 | coffee break  |  
