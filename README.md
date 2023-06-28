@@ -7,8 +7,9 @@ Workshop on Clinical and Environmental Metagenome Analysis [CINEMA](https://even
 
 You will need to bring a laptop to actively participate in this course.
 
-## Accessing our cloud computers
+## Accessing our virtual machines
 
+We can provide user access to our virtual machines during the workshop. 
 
 ## Schedule links for CINEMA 2023
 
@@ -50,7 +51,7 @@ You will need to bring a laptop to actively participate in this course.
 
 ## Schedule
 
-> All activities are in TODO. All times in CEST (UTC+2).
+> All events are held in the Rice Global Paris Center. All times in CEST (UTC+2).
 
 #### <a name="0"></a> Monday, 3 July
 | **Time**       | **CINEMA Kickoff**        |
@@ -98,7 +99,7 @@ You will need to bring a laptop to actively participate in this course.
 | 14h30-15h00 | coffee break  |  
 | 15h00-16h30 | [practical session or hands-on demo 2](slides) |
 | 16h30-17h30 | social event  | 
-| 17h30-18h30 | Invited speaker (Dr. Sonia Villapol) | 
+| 17h30-18h30 | Changes in the gut microbiome in Alzheimer's disease (Dr. Sonia Villapol) | 
 
 
 #### <a name="4"></a> Friday, 7 July
