@@ -69,7 +69,7 @@ You will need to bring a laptop to actively participate in this course.
 | 13h30-14h30 | [practical session or hands-on demo part 1](slides) |
 | 14h30-15h00 | coffee break  |  
 | 15h00-16h00 | [practical session or hands-on demo 2](slides) |
-| 16h00-17h00 | Lightning presentations (all participants, auditorium) | 
+| 16h00-17h00 | Lightning presentations (all participants) | 
 | 17h00-18h00 | social event  | 
 
 
@@ -83,7 +83,7 @@ You will need to bring a laptop to actively participate in this course.
 | 13h30-14h30 | [practical session or hands-on demo part 1](slides) |
 | 14h30-15h00 | coffee break  |  
 | 15h00-16h00 | [practical session or hands-on demo 2](slides) |
-| 16h00-17h00 | Invited speaker (Dr. Lucie Bittner, LPI extension) | 
+| 16h00-17h00 | Invited speaker (Dr. Lucie Bittner) | 
 | 17h00-18h00 | social event  | 
 
 
@@ -98,7 +98,7 @@ You will need to bring a laptop to actively participate in this course.
 | 14h30-15h00 | coffee break  |  
 | 15h00-16h30 | [practical session or hands-on demo 2](slides) |
 | 16h30-17h30 | social event  | 
-| 17h30-18h30 | Invited speaker (Dr. Sonia Villapol, auditorium) | 
+| 17h30-18h30 | Invited speaker (Dr. Sonia Villapol) | 
 
 
 #### <a name="4"></a> Friday, 7 July
@@ -112,7 +112,7 @@ You will need to bring a laptop to actively participate in this course.
 | 14h30-15h00 | coffee break  |  
 | 15h00-16h30 | [practical session or hands-on demo 2](slides) |
 | 16h30-17h30 | social event  | 
-| 17h30-18h30 | Invited speaker (Dr. Zamin Iqbal, auditorium) | 
+| 17h30-18h30 | "Using revived 100-year old bacteria and new algoithms to study plasmid evolution" (Dr. Zamin Iqbal) | 
 
 
 
@@ -124,7 +124,7 @@ You will need to bring a laptop to actively participate in this course.
 | 12h30-14h00 | lunch/networking | 
 | 14h00-15h30 | analyzing your own data, part 2 |
 | 15h30-16h00 | coffee break  |  
-| 16h00-17h00 | closing keynote speaker (auditorium) |
+| 16h00-17h00 | closing keynote speaker |
 | 18h00-20h00 | workshop dinner  | 
 
 
