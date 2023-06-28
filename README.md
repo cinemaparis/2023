@@ -10,7 +10,7 @@ You will need to bring a laptop to actively participate in this course.
 ## Accessing our cloud computers
 
 
-## Schedule links for STAMPS 2022
+## Schedule links for CINEMA 2023
 
 * [3 July – Monday](#0)  
 * [4 July – Tuesday](#1)
