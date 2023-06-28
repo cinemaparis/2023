@@ -5,11 +5,7 @@ Workshop on Clinical and Environmental Metagenome Analysis [CINEMA](https://even
 
 ## Before the course
 
-You will need to bring a laptop to actively participate in this course.
-
-## Accessing our virtual machines
-
-We can provide user access to our virtual machines during the workshop. 
+You will need to bring a laptop to actively participate in this course. We can provide user access to our virtual machines during the workshop if needed. 
 
 ## Schedule links for CINEMA 2023
 
