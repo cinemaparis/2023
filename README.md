@@ -80,7 +80,7 @@ You will need to bring a laptop to actively participate in this course. We can p
 | 13h30-14h30 | [practical session or hands-on demo part 1](slides) |
 | 14h30-15h00 | coffee break  |  
 | 15h00-16h00 | [practical session or hands-on demo 2](slides) |
-| 16h00-17h00 | Invited speaker (Dr. Lucie Bittner) | 
+| 16h00-17h00 | "Bridging the gap between (meta-)omics and biodiversity perceptions - Can we ignore the "dark" sequences?" (Dr. Lucie Bittner) | 
 | 17h00-18h00 | social event  | 
 
 
