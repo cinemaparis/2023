@@ -52,9 +52,10 @@ You will need to bring a laptop to actively participate in this course. We can p
 #### <a name="0"></a> Monday, 3 July
 | **Time**       | **CINEMA Kickoff**        |
 |:-------------:|:-------------:| 
-| 15h30-16h00 | Welcome to CINEMA Paris 2023 (Dr. Stadler and Dr. Treangen) |
+| 15h30-15h40 | Welcome to Rice Global Paris Center (Dr. Garry White) |
+| 15h40-15h55 | Welcome to CINEMA Paris 2023 (Dr. Stadler and Dr. Treangen) |
 | 16h00-17h00 | Keynote address (Dr. Nicola Segata) “Large-scale strain-level computational metagenomics of the human microbiome” |
-| 17h00-18h30 | Social & Networking |
+| 17h00-18h00 | Social & Networking |
 
 #### <a name="1"></a> Tuesday, 4 July
 | **Time**       | **Sampling and Sequencing (Instructor: Dr. Quick, Moderator: Dr. Stadler)**        |
@@ -114,21 +115,19 @@ You will need to bring a laptop to actively participate in this course. We can p
 
 
 #### <a name="5"></a> Saturday, 8 July
-| **Time**       | **Putting it all together (bring your own data)**        |  
+| **Time**       | **Putting it all together (bring your own dataset else example data will be provided)**        |  
 |:-------------:|:-------------:|  
 | 8h30-9h30 | [bioinformatics tips over breakfast](slides) |
-| 9h30-12h30 | analyzing your own data, part 1  |  
+| 9h30-12h30 | Analyzing data on your own, part 1  |  
 | 12h30-14h00 | lunch/networking | 
-| 14h00-15h30 | analyzing your own data, part 2 |
+| 14h00-15h30 | Analyzing data on your own, part 2 |
 | 15h30-16h00 | coffee break  |  
-| 16h00-17h00 | closing keynote speaker |
+| 16h00-17h00 | “SARS CoV 2 genome monitoring in wastewater by the French OBEPINE network, deciphering the viral dynamics and VOC evolution” (Dr. Laurent MOULIN, Eau de Paris) |
 | 18h00-20h00 | workshop dinner  | 
 
 
 #### <a name="6"></a> Sunday, 9 July
 | **Time**       | **Finale (Moderators: Dr. Stadler, Dr. Treangen)**        |
 |:-------------:|:-------------:|
-| 9h00-12h00 | Participant presentations, 10 minutes each  |  
-| 12h00-13h00 | CINEMA recap and awards |
-| 14h00-16h00 | CINEMA bioinformatics help desk lab (optional)  | 
-
+| 9h00-11h30 | Participant presentations, 10 minutes each  |  
+| 11h30-12h00 | CINEMA recap and closing |
