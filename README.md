@@ -41,6 +41,7 @@ You will need to bring a laptop to actively participate in this course. We can p
 * [Sonia Villapol Salgado](https://villapol.hmailabs.org/) Houston Methodist Research Institut, USA
 * [Lucie Bittner](https://luciebittner.com/) Sorbonne Université
 * [Zamin Iqbal](https://www.ebi.ac.uk/people/person/zamin-iqbal/) EMBL-European Bioinformatics Institute
+* [Laurent Moulin](https://www.leesu.fr/moulin-laurent?lang=fr) Eau de Paris
 
 ## Keynote Speaker
 * [Nicola Segata](http://segatalab.cibio.unitn.it/) University of Trento (Italy) and European Institute of Oncology in Milan (Italy)
@@ -122,7 +123,7 @@ You will need to bring a laptop to actively participate in this course. We can p
 | 12h30-14h00 | lunch/networking | 
 | 14h00-15h30 | Analyzing data on your own, part 2 |
 | 15h30-16h00 | coffee break  |  
-| 16h00-17h00 | “SARS CoV 2 genome monitoring in wastewater by the French OBEPINE network, deciphering the viral dynamics and VOC evolution” (Dr. Laurent MOULIN, Eau de Paris) |
+| 16h00-17h00 | “SARS CoV 2 genome monitoring in wastewater by the French OBEPINE network, deciphering the viral dynamics and VOC evolution” (Dr. Laurent Moulin, Eau de Paris) |
 | 18h00-20h00 | CINEMA dinner  | 
 
 
