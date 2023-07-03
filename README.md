@@ -1,6 +1,6 @@
 <h1> CINEMA 2023 </h1>
 
-Workshop on Clinical and Environmental Metagenome Analysis [CINEMA](https://events.rice.edu/event/345710-workshop-on-clinical-and-environmental-metagenome) 2023 materials.
+Workshop on Clinical and Environmental Metagenome Analysis [CINEMA](https://events.rice.edu/event/345710-workshop-on-clinical-and-environmental-metagenome) 2023 materials. Additional materials can be found on our [CINEMA 2023 Box folder.](https://rice.box.com/s/4wp06l4zaq6947trca5q67lth2zkim7o)
 
 
 ## Before the course
@@ -12,10 +12,6 @@ You will need to bring a laptop to actively participate in this course. We can p
 Wifi: RGP Center Guest \
 PW: RICE*Guest \
 Gate code: 15B87
-
-## Box link for additional materials
-
-[CINEMA 2023 Box](https://rice.box.com/s/4wp06l4zaq6947trca5q67lth2zkim7o)
 
 ## Schedule links for CINEMA 2023
 
