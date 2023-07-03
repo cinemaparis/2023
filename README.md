@@ -13,6 +13,10 @@ Wifi: RGP Center Guest \
 PW: RICE*Guest \
 Gate code: 15B87
 
+## Box link for additional materials
+
+[CINEMA 2023 Box](https://rice.box.com/s/4wp06l4zaq6947trca5q67lth2zkim7o)
+
 ## Schedule links for CINEMA 2023
 
 * [3 July – Monday](#0)  
