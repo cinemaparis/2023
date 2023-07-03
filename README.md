@@ -9,7 +9,7 @@ You will need to bring a laptop to actively participate in this course. We can p
 
 ## Rice Global Paris Center
 
-Wifi: RGP Center Guest
+Wifi: RGP Center Guest \
 PW: RICE*Guest
 
 ## Schedule links for CINEMA 2023
