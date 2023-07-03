@@ -7,6 +7,11 @@ Workshop on Clinical and Environmental Metagenome Analysis [CINEMA](https://even
 
 You will need to bring a laptop to actively participate in this course. We can provide user access to our virtual machines during the workshop if needed. 
 
+## Rice Global Paris Center
+
+Wifi: RGP Center Guest
+PW: RICE*Guest
+
 ## Schedule links for CINEMA 2023
 
 * [3 July – Monday](#0)  
