@@ -1,4 +1,4 @@
-## Sampling & Sequencing 
+## Sampling & Sequencing (Dr. Joshua Quick)
 
 Tuesday, 4 July \
-Dr. Lauren Stadler
+Moderator: Dr. Lauren Stadler
