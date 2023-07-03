@@ -68,7 +68,7 @@ You will need to bring a laptop to actively participate in this course. We can p
 | 14h30-15h00 | coffee break  |  
 | 15h00-16h00 | [practical session or hands-on demo 2](slides) |
 | 16h00-17h00 | Lightning presentations (all participants) | 
-| 17h00-18h00 | social event  | 
+| 17h00-18h00 | social hour  | 
 
 
 #### <a name="2"></a> Wednesday, 5 July
@@ -82,7 +82,7 @@ You will need to bring a laptop to actively participate in this course. We can p
 | 14h30-15h00 | coffee break  |  
 | 15h00-16h00 | [practical session or hands-on demo 2](slides) |
 | 16h00-17h00 | "Bridging the gap between (meta-)omics and biodiversity perceptions - Can we ignore the "dark" sequences?" (Dr. Lucie Bittner) | 
-| 17h00-18h00 | social event  | 
+| 17h00-18h00 | CINEMA helpdesk (aka getting ready for Thursday)  | 
 
 
 #### <a name="3"></a> Thursday, 6 July
@@ -94,9 +94,9 @@ You will need to bring a laptop to actively participate in this course. We can p
 | 12h00-13h30 | lunch/networking | 
 | 13h30-14h30 | [practical session or hands-on demo part 1](slides) |
 | 14h30-15h00 | coffee break  |  
-| 15h00-16h30 | [practical session or hands-on demo 2](slides) |
-| 16h30-17h30 | social event  | 
-| 17h30-18h30 | "Changes in the gut microbiome in Alzheimer's disease" (Dr. Sonia Villapol) | 
+| 15h00-16h00 | [practical session or hands-on demo 2](slides) |
+| 16h00-17h00 | "Changes in the gut microbiome in Alzheimer's disease" (Dr. Sonia Villapol) | 
+| 17h00-18h00 | social hour  | 
 
 
 #### <a name="4"></a> Friday, 7 July
@@ -108,9 +108,9 @@ You will need to bring a laptop to actively participate in this course. We can p
 | 12h00-13h30 | lunch/networking | 
 | 13h30-14h30 | [practical session or hands-on demo part 1](slides) |
 | 14h30-15h00 | coffee break  |  
-| 15h00-16h30 | [practical session or hands-on demo 2](slides) |
-| 16h30-17h30 | social event  | 
-| 17h30-18h30 | "Using revived 100-year old bacteria and new algoithms to study plasmid evolution" (Dr. Zamin Iqbal) | 
+| 15h00-16h00 | [practical session or hands-on demo 2](slides) |
+| 16h00-17h00 | "Using revived 100-year old bacteria and new algoithms to study plasmid evolution" (Dr. Zamin Iqbal) | 
+| 17h00-18h00 | social hour  | 
 
 
 
@@ -123,7 +123,7 @@ You will need to bring a laptop to actively participate in this course. We can p
 | 14h00-15h30 | Analyzing data on your own, part 2 |
 | 15h30-16h00 | coffee break  |  
 | 16h00-17h00 | “SARS CoV 2 genome monitoring in wastewater by the French OBEPINE network, deciphering the viral dynamics and VOC evolution” (Dr. Laurent MOULIN, Eau de Paris) |
-| 18h00-20h00 | workshop dinner  | 
+| 18h00-20h00 | CINEMA dinner  | 
 
 
 #### <a name="6"></a> Sunday, 9 July
