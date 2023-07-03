@@ -11,6 +11,7 @@ You will need to bring a laptop to actively participate in this course. We can p
 
 Wifi: RGP Center Guest \
 PW: RICE*Guest
+Gate code: 15B87
 
 ## Schedule links for CINEMA 2023
 
