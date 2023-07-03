@@ -81,9 +81,9 @@ Gate code: 15B87
 #### <a name="2"></a> Wednesday, 5 July
 | **Time**       | **Environmental microbiome analysis (Instructor: Dr. Delgado Vela, Moderator: Dr. Stadler)**        |
 |:-------------:|:-------------:|
-| 9h30-10h30 | [lecture part 1](slides) |
+| 9h30-10h30 | [lecture part 1](day2-Wednesday/Environmental_Microbiome_Analysis.pdf) |
 | 10h30-11h00 | coffee break  |  
-| 11h00-12h00 | [lecture part 2](slides) |
+| 11h00-12h00 | [lecture part 2](day2-Wednesday/Environmental_Microbiome_Analysis.pdf) |
 | 12h00-13h30 | lunch/networking | 
 | 13h30-14h30 | [practical session or hands-on demo part 1](slides) |
 | 14h30-15h00 | coffee break  |  
@@ -95,9 +95,9 @@ Gate code: 15B87
 #### <a name="3"></a> Thursday, 6 July
 | **Time**       | **Clinical microbiome analysis (Instructor: Dr. Vieira-Silva, Moderator: Dr. Treangen)**        |
 |:-------------:|:-------------:|
-| 9h30-10h30 | [lecture part 1](day2 - Wednesday/Environmental_Microbiome_Analysis.pdf) |
+| 9h30-10h30 | [lecture part 1](slides) |
 | 10h30-11h00 | coffee break  |  
-| 11h00-12h00 | [lecture part 2](day2 - Wednesday/Environmental_Microbiome_Analysis.pdf) |
+| 11h00-12h00 | [lecture part 2](slides) |
 | 12h00-13h30 | lunch/networking | 
 | 13h30-14h30 | [practical session or hands-on demo part 1](slides) |
 | 14h30-15h00 | coffee break  |  
