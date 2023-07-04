@@ -85,9 +85,9 @@ Gate code: 15B87
 | 10h30-11h00 | coffee break  |  
 | 11h00-12h00 | [lecture part 2](day2-Wednesday/Environmental_Microbiome_Analysis.pdf) |
 | 12h00-13h30 | lunch/networking | 
-| 13h30-14h30 | [practical session or hands-on demo part 1](day2-Wednesday/ActivityHandout.pdf) |
+| 13h30-14h30 | [practical session or hands-on demo part 1](day2-Wednesday/ActivityHandout.docx) |
 | 14h30-15h00 | coffee break  |  
-| 15h00-16h00 | [practical session or hands-on demo 2](day2-Wednesday/ActivityHandout.pdf) |
+| 15h00-16h00 | [practical session or hands-on demo 2](day2-Wednesday/ActivityHandout.docx) |
 | 16h00-17h00 | "Bridging the gap between (meta-)omics and biodiversity perceptions - Can we ignore the "dark" sequences?" (Dr. Lucie Bittner) | 
 | 17h00-18h00 | CINEMA helpdesk (aka getting ready for Thursday)  | 
 
