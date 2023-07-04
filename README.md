@@ -67,9 +67,9 @@ Gate code: 15B87
 #### <a name="1"></a> Tuesday, 4 July
 | **Time**       | **Sampling and Sequencing (Instructor: Dr. Quick, Moderator: Dr. Stadler)**        |
 |:-------------:|:-------------:|
-| 9h30-10h30 | [lecture part 1](slides) |
+| 9h30-10h30 | [lecture part 1](day1-Tuesday/slides-Quick.pdf) |
 | 10h30-11h00 | coffee break  |  
-| 11h00-12h00 | [lecture part 2](slides) |
+| 11h00-12h00 | [lecture part 2](day1-Tuesday/slides-Quick.pdf) |
 | 12h00-13h30 | lunch/networking | 
 | 13h30-14h30 | [practical session or hands-on demo part 1](slides) |
 | 14h30-15h00 | coffee break  |  
