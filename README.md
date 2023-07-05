@@ -71,9 +71,9 @@ Gate code: 15B87
 | 10h30-11h00 | coffee break  |  
 | 11h00-12h00 | [lecture part 2](day1-Tuesday/slides-Quick.pdf) |
 | 12h00-13h30 | lunch/networking | 
-| 13h30-14h30 | [practical session or hands-on demo part 1](slides) |
+| 13h30-14h30 | practical session or hands-on demo part 1 |
 | 14h30-15h00 | coffee break  |  
-| 15h00-16h00 | [practical session or hands-on demo 2](slides) |
+| 15h00-16h00 | practical session or hands-on demo 2 |
 | 16h00-17h00 | Lightning presentations (all participants) | 
 | 17h00-18h00 | social hour  | 
 
@@ -99,9 +99,9 @@ Gate code: 15B87
 | 10h30-11h00 | coffee break  |  
 | 11h00-12h00 | [lecture part 2](slides) |
 | 12h00-13h30 | lunch/networking | 
-| 13h30-14h30 | [practical session or hands-on demo part 1](slides) |
+| 13h30-14h30 | [practical session or hands-on demo part 1](day3-Thursday/Tutorial_CINEMA_VieiraSilva_20230706_noSolutions.pdf) |
 | 14h30-15h00 | coffee break  |  
-| 15h00-16h00 | [practical session or hands-on demo 2](slides) |
+| 15h00-16h00 | [practical session or hands-on demo 2](day3-Thursday/Tutorial_CINEMA_VieiraSilva_20230706_noSolutions.pdf) |
 | 16h00-17h00 | "Changes in the gut microbiome in Alzheimer's disease" (Dr. Sonia Villapol) | 
 | 17h00-18h00 | social hour  | 
 
