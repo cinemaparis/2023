@@ -74,7 +74,7 @@ Gate code: 15B87
 | 13h30-14h30 | practical session or hands-on demo part 1 |
 | 14h30-15h00 | coffee break  |  
 | 15h00-16h00 | practical session or hands-on demo 2 |
-| 16h00-17h00 | [Lightning presentations](day1-Tuesday/Lightning_Presentation.pdf) | 
+| 16h00-17h00 | [Lightning presentations](day1-Tuesday/Lightning_Presentations.pdf) | 
 | 17h00-18h00 | social hour  | 
 
 
