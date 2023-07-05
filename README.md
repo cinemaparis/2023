@@ -127,7 +127,7 @@ Gate code: 15B87
 | 9h30-10h30 | [Linux and bioinformatics tips + CINEMA VM details (Kristen and Todd)](slides) |
 | 10h30-12h30 | Analyzing data on your own, session 1  |  
 | 12h30-13h30 | lunch/networking | 
-| 13h30-15h30 | Analyzing data on your own, session 2 |
+| 13h30-15h30 | Analyzing data on your own (+slide prep for Sunday), session 2 |
 | 15h30-16h00 | coffee break  |  
 | 16h00-17h00 | “SARS CoV 2 genome monitoring in wastewater by the French OBEPINE network, deciphering the viral dynamics and VOC evolution” (Dr. Laurent Moulin, Eau de Paris) |
 | 19h30-21h00 | CINEMA dinner (Restaurant Salon Marais)| 
