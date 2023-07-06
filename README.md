@@ -109,13 +109,13 @@ Gate code: 15B87
 #### <a name="4"></a> Friday, 7 July
 | **Time**       | **Bioinformatics tools and approaches (Instructor: Dr. Dilthey, Moderator: Dr. Treangen)**        |  
 |:-------------:|:-------------:|  
-| 9h30-10h30 | [lecture part 1](slides) |
+| 9h30-10h30 | [lecture part 1](day4-Friday/taxonomic_classification_and_EM.pdf) |
 | 10h30-11h00 | coffee break  |  
-| 11h00-12h00 | [lecture part 2](slides) |
+| 11h00-12h00 | [lecture part 2](day4-Friday/MetaMaps_and_Emu.pdf) |
 | 12h00-13h30 | lunch/networking | 
-| 13h30-14h30 | [practical session or hands-on demo part 1](slides) |
+| 13h30-14h30 | [practical session or hands-on demo part 1](day4-Friday/Emu_Practical.pdf) |
 | 14h30-15h00 | coffee break  |  
-| 15h00-16h00 | [practical session or hands-on demo 2](slides) |
+| 15h00-16h00 | [practical session or hands-on demo 2](day4-Friday/LCA.pdf) |
 | 16h00-17h00 | "Using revived 100-year old bacteria and new algoithms to study plasmid evolution" (Dr. Zamin Iqbal) | 
 | 17h00-18h00 | social hour  | 
 
