@@ -124,7 +124,7 @@ Gate code: 15B87
 #### <a name="5"></a> Saturday, 8 July
 | **Time**       | **Putting it all together (bring your own dataset else example data will be provided)**        |  
 |:-------------:|:-------------:|  
-| 9h30-10h30 | [Linux and bioinformatics tips (Kristen and Todd)](day5-Saturday/CINEMA_Saturday.pdf) |
+| 9h30-10h30 | Linux and bioinformatics tips (Kristen and Todd)[first](https://docs.google.com/presentation/d/13MESl6vTHsJSTYWRPdr2HAptnEA-rRjKorBiHM3d0Co/edit?usp=sharing)[second](day5-Saturday/CINEMA_Saturday.pdf) |
 | 10h30-12h30 | Analyzing data on your own, session 1  |  
 | 12h30-13h30 | lunch/networking | 
 | 13h30-15h30 | Analyzing data on your own (+slide prep for Sunday), session 2 |
