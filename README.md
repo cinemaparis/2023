@@ -130,7 +130,7 @@ Gate code: 15B87
 | 13h30-15h30 | Analyzing data on your own (+slide prep for Sunday), session 2 |
 | 15h30-16h00 | coffee break  |  
 | 16h00-17h00 | “SARS CoV 2 genome monitoring in wastewater by the French OBEPINE network, deciphering the viral dynamics and VOC evolution” (Dr. Laurent Moulin, Eau de Paris) |
-| 19h30-21h00 | CINEMA dinner ([[Restaurant Salon Marais]](https://fr.newtable.com/restaurant-sal-n-marais-4239.php)| 
+| 19h30-21h00 | CINEMA dinner [Restaurant Salon Marais](https://fr.newtable.com/restaurant-sal-n-marais-4239.php)| 
 
 
 #### <a name="6"></a> Sunday, 9 July
