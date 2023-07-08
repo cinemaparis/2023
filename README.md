@@ -136,5 +136,5 @@ Gate code: 15B87
 #### <a name="6"></a> Sunday, 9 July
 | **Time**       | **Finale (Moderators: Dr. Stadler, Dr. Treangen)**        |
 |:-------------:|:-------------:|
-| 9h00-11h30 | Participant presentations, 10 minutes each  |  
+| 9h00-11h30 | Participant presentations, 5 minutes per participant, 10 minutes per team  |  
 | 11h30-12h00 | CINEMA recap and closing |
