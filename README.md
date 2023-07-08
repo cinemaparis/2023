@@ -116,7 +116,7 @@ Gate code: 15B87
 | 13h30-14h30 | [practical session or hands-on demo part 1](day4-Friday/Emu_Practical.pdf) |
 | 14h30-15h00 | coffee break  |  
 | 15h00-16h00 | [practical session or hands-on demo 2](day4-Friday/LCA.pdf) |
-| 16h00-17h00 | "Using revived 100-year old bacteria and new algoithms to study plasmid evolution" (Dr. Zamin Iqbal) | 
+| 16h00-17h00 | "Using revived 100-year old bacteria and new algorithms to study plasmid evolution" (Dr. Zamin Iqbal) | 
 | 17h00-18h00 | social hour  | 
 
 
